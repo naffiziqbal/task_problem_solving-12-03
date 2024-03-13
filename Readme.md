@@ -1,4 +1,5 @@
 // spell-checker: disable
+<!-- * 1------------------->
 PW2.01.016
 
 Remove Duplicates from Sorted Array
@@ -41,6 +42,8 @@ It does not matter what you leave beyond the returned k (hence they are undersco
 <!-- ?============================================== -->
 
 
+<!-- * 2------------------->
+
 PW2.01.017
 
 Move Zeroes
@@ -58,6 +61,7 @@ Example 2:
 Input: nums = [0]
 Output: [0]
 
+<!-- * 5------------------ -->
 PW2.01.018
 Majority Element
 
@@ -73,6 +77,8 @@ Example 2:
 
 Input: nums = [2,2,1,1,1,2,2]
 Output: 2
+
+<!-- * 4------------------->
 
 PW2.01.019
 
@@ -95,6 +101,8 @@ Example 2:
 Input: prices = [7,6,4,3,1]
 Output: 0
 Explanation: In this case, no transactions are done and the max profit = 0.
+
+<!-- * 3------------------->
 
 PW2.01.020
 
