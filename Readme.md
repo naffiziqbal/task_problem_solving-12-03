@@ -1,5 +1,5 @@
 // spell-checker: disable
-<!-- * 1------------------->
+<!--1----------------- -->
 PW2.01.016
 
 Remove Duplicates from Sorted Array
