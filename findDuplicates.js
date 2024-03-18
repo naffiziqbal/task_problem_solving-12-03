@@ -6,7 +6,6 @@ You must write an algorithm that runs in O(n) time and uses only constant extra 
 
 Example 1:
 
-Input: nums = [4,3,2,7,8,2,3,1]
 Output: [2,3]
 Example 2:
 
@@ -16,6 +15,7 @@ Example 3:
 
 Input: nums = [1]
 Output: [] */
+
 
 const findDuplicates = (nums) => {
   const result = [];
@@ -32,3 +32,7 @@ const findDuplicates = (nums) => {
 const nums = [4, 3, 2, 7, 8, 2, 3, 1, -1, ,-2,-4, -4];
 const duplicates = findDuplicates(nums);
 console.log(duplicates);
+
+
+
+//? Input: nums = [4,3,2,7,8,2,3,1]

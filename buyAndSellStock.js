@@ -21,13 +21,13 @@ Output: 0
 Explanation: In this case, no transactions are done and the max profit = 0.
  */
 
-const prices = [7, 1, 5, 3, 6, 4];
 
+const prices = [7, 1, 5, 3, 6, 4];
 const buyAndSell = (prices) => {
   // Initialize variables
   let maxProfit = 0;
   let minPrice = Infinity;
-
+  
   // Iterate through prices
   for (let price of prices) {
     // Update minimum price
